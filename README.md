@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Helena! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helena/)](https://www.linkedin.com/in/helena-oliveira-silva-42288929/)
 
