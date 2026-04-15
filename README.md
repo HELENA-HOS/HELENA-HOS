@@ -1,43 +1,46 @@
-# 📂 Portfólio Técnico
+# 👩🏽‍💻 Helena Oliveira Silva
 
-Este repositório reúne projetos desenvolvidos para **estudo, prática e evolução profissional** na área de tecnologia.  
-Os projetos aqui apresentados refletem minha trajetória de aprendizado, aplicação prática de conceitos técnicos e interesse em resolver problemas reais de negócio por meio de software.
+Profissional de tecnologia com experiência em desenvolvimento backend no setor bancário e foco atual em DevOps, Cloud e confiabilidade de sistemas (SRE).
 
-O portfólio contempla diferentes áreas da tecnologia, com foco em **desenvolvimento de software, dados, automação, qualidade e confiabilidade de sistemas**.
-
----
-
-## 🧩 O que você vai encontrar aqui
-
-- **Projetos em Python**  
-  Análise de dados, automação de processos, Machine Learning e estudos aplicados a cenários reais (ex: churn, score de crédito).
-
-- **Projetos em Java**  
-  Back-end, APIs REST, lógica de programação, boas práticas e fundamentos de desenvolvimento orientado a objetos.
-
-- **Front-end e Web**  
-  Projetos de estudo em HTML, CSS, JavaScript e integração com back-end.
+Tenho atuado na evolução de minhas habilidades práticas através de projetos que envolvem automação, containerização, CI/CD, infraestrutura como código e observabilidade.
 
 ---
 
-## 🎯 Objetivo deste repositório
+## 🚀 Principais focos atuais
 
-- Consolidar o aprendizado técnico de forma prática  
-- Demonstrar evolução e raciocínio lógico na resolução de problemas  
-- Servir como **portfólio profissional** para oportunidades nas áreas de:
-  - Desenvolvimento de Software
-  - QA / Qualidade de Software
-  - Dados / Analytics
-  - SRE / DevOps Júnior
+- DevOps e Cloud Computing
+- Automação e confiabilidade (SRE)
+- CI/CD e boas práticas de entrega
+- Observabilidade e troubleshooting
 
 ---
 
-## 📌 Organização
+## 📂 Projetos em destaque
 
-Cada projeto possui:
-- README próprio com contexto, objetivos e instruções de execução  
-- Código organizado e comentado  
-- Indicação de quando se trata de projeto **educacional ou simulado**
+- 🔧 DevOps Lab Project  
+  Projeto completo com aplicação, Docker, Kubernetes, CI/CD, Terraform e segurança
+
+- ⚙️ Health Check Automation (Bash)  
+  Script de monitoramento com evolução de práticas de SRE
+
+- 📊 Projetos de Dados  
+  Análises aplicadas com Python (churn, score de crédito)
+
+---
+
+## 🧠 Tecnologias e ferramentas
+
+- Linguagens: Python, Java, Bash
+- Cloud: AWS (conceitos e práticas)
+- DevOps: Docker, Kubernetes, GitHub Actions, Terraform
+- Observabilidade: Logs, troubleshooting, análise de incidentes
+- Banco de dados: SQL
+
+---
+
+## 🎯 Objetivo
+
+Atuar em posições de DevOps / Cloud / SRE, contribuindo com automação, confiabilidade e evolução contínua dos sistemas.
 
 ---
 
