@@ -1,58 +1,106 @@
 # 👩🏽‍💻 Helena Oliveira Silva
 
-Profissional de tecnologia com experiência em desenvolvimento backend no setor bancário e foco atual em DevOps, Cloud e confiabilidade de sistemas (SRE).
+Profissional de tecnologia com experiência em desenvolvimento backend Java e sustentação de aplicações em ambiente de missão crítica no setor financeiro, com foco atual em Cloud, DevOps e confiabilidade de sistemas (SRE).
 
-Tenho atuado na evolução de minhas habilidades práticas através de projetos que envolvem automação, containerização, CI/CD, infraestrutura como código e observabilidade.
+Tenho evoluído minhas habilidades práticas através de projetos voltados para automação, observabilidade, infraestrutura cloud, CI/CD, troubleshooting e operações em ambientes Linux, buscando consolidar conhecimentos em ambientes distribuídos e práticas modernas de engenharia.
 
 ---
 
-## 🚀 Principais focos atuais
+# 🚀 Principais focos atuais
 
-- DevOps e Cloud Computing
-- Automação e confiabilidade (SRE)
-- CI/CD e boas práticas de entrega
+- Cloud Computing e AWS
+- DevOps e automação
 - Observabilidade e troubleshooting
+- Confiabilidade de sistemas (SRE)
+- Containers e orquestração
+- CI/CD e entrega contínua
 
 ---
 
-## 📂 Projetos em destaque
+# 📂 Projetos em destaque
 
-- 🔧 DevOps Lab Project  
-  Projeto completo com aplicação, Docker, Kubernetes, CI/CD, Terraform e segurança
+## 🔧 DevOps Lab Project
+Projeto prático end-to-end envolvendo:
+- APIs
+- Docker
+- Kubernetes
+- CI/CD com GitHub Actions
+- Terraform
+- DevSecOps
+- Infraestrutura como Código
 
-- ⚙️ Health Check Automation (Bash)  
-  Script de monitoramento com evolução de práticas de SRE
-
-- 📊 Projetos de Dados  
-  Análises aplicadas com Python (churn, score de crédito)
-
----
-
-## 🧠 Tecnologias e ferramentas
-
-- Linguagens: Python, Java, Bash
-- Cloud: AWS (conceitos e práticas)
-- DevOps: Docker, Kubernetes, GitHub Actions, Terraform
-- Observabilidade: Logs, troubleshooting, análise de incidentes
-- Banco de dados: SQL
+Focado em automação, confiabilidade, entrega contínua e operação de aplicações em ambiente cloud.
 
 ---
 
-## 🎯 Objetivo
+## ⚙️ AWS IAM Automation
+Projeto de automação para provisionamento de grupos e usuários IAM utilizando Bash Script e AWS CLI.
 
-Atuar em posições de DevOps / Cloud / SRE, contribuindo com automação, confiabilidade e evolução contínua dos sistemas.
+Inclui:
+- Criação automatizada de grupos e usuários
+- Associação automática de políticas IAM
+- Leitura e parsing de arquivos CSV
+- Validação de existência de recursos
+- Tratamento de erros e logs operacionais
+
+Conceitos praticados:
+- AWS IAM
+- AWS CLI
+- Bash Script
+- Linux
+- Automação de infraestrutura
+- Troubleshooting
+- Git e GitHub
 
 ---
 
-## ⚠️ Aviso importante
+## 🩺 Health Check Automation (Bash)
+Projeto de automação para monitoramento de APIs e verificação de disponibilidade de serviços.
 
-> Todos os projetos deste repositório foram desenvolvidos **exclusivamente para fins educacionais e de portfólio**.  
-> Dados sensíveis são fictícios ou anonimizados e **não devem ser utilizados em ambientes produtivos**.
+Inclui:
+- Validação de status HTTP
+- Logs operacionais
+- Simulação de falhas
+- Execução em ambiente Linux/Docker
+- Evolução incremental com práticas de observabilidade e SRE
 
 ---
 
-## 📬 Contato
+# 🧠 Tecnologias e ferramentas
 
-- **LinkedIn:** https://www.linkedin.com/in/helena-oliveira-silva  
-- **E-mail:** helena_oliveirasilva@yahoo.com.br
+## 💻 Linguagens e Scripts
+Java • Bash • Python
 
+## ☁️ Cloud & DevOps
+AWS • Docker • Kubernetes • Terraform • GitHub Actions • Git • CI/CD
+
+## 📊 Observabilidade & Operações
+CloudWatch • Datadog • Logs • Troubleshooting • Monitoramento • Análise de Incidentes
+
+## 🗄️ Banco de Dados
+SQL • Bancos relacionais
+
+## 🐧 Sistemas
+Linux
+
+---
+
+# 🎯 Objetivo
+
+Atuar em posições relacionadas a Cloud, DevOps, SRE e Backend, contribuindo com automação, observabilidade, confiabilidade e evolução contínua de aplicações e infraestrutura.
+
+---
+
+# ⚠️ Aviso importante
+
+Todos os projetos deste repositório foram desenvolvidos exclusivamente para fins educacionais, laboratoriais e de portfólio.
+
+Dados, credenciais e informações sensíveis são fictícios, anonimizados ou simulados, não devendo ser utilizados em ambientes produtivos.
+
+---
+
+# 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/helena-oliveira-silva
+- E-mail: helena_oliveirasilva@yahoo.com.br
+  
